@@ -25,8 +25,6 @@ function dec(n) {
 
 /*
 ******************************
-it('dec(n) decrements n and returns the result', function() {
-  expect(dec(a)).toEqual(a - 1)
-})
+
 ********************************
 */
